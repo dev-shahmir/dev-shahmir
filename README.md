@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Computer Science** at Mao College Lahore
+- 🎓 Studying **Intermediate Computer Science** at Mao College Lahore
 - 💻 Completed a **Full Web Development** course (Dec 2023)
 - 🎨 Completed a **Graphic Design & Video Editing** course (Jun 2024)
 - 🚀 Currently working as a **Freelance Developer, Designer & Video Editor**
@@ -52,7 +52,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -70,12 +69,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-shahmir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shahmir&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shahmir&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -87,6 +86,6 @@ I'm always open to freelance work, collaborations, or just a good conversation a
 > *"Let's connect and create something meaningful together."*
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahmir-ahmad">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/shahmir-ahmad-full-stack-developer/">LinkedIn</a> •
+  <a href="mailto:ashahmir467@email.com">Email</a>
 </p>
