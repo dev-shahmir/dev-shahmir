@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/shahmir-ahmad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ashahmir467@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shahmir-ahmad&style=for-the-badge&color=0e75b6" alt="Profile views" />
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Intermediate Computer Science** at Mao College Lahore
+- 🎓 Studying **Computer Science** at Mao College Lahore
 - 💻 Completed a **Full Web Development** course (Dec 2023)
 - 🎨 Completed a **Graphic Design & Video Editing** course (Jun 2024)
 - 🚀 Currently working as a **Freelance Developer, Designer & Video Editor**
@@ -52,6 +52,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -74,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shahmir&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=dev-shahmir&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -86,6 +87,6 @@ I'm always open to freelance work, collaborations, or just a good conversation a
 > *"Let's connect and create something meaningful together."*
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahmir-ahmad-full-stack-developer/">LinkedIn</a> •
-  <a href="mailto:ashahmir467@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/shahmir-ahmad">LinkedIn</a> •
+  <a href="mailto:your@email.com">Email</a>
 </p>
