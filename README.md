@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Computer Science** at Mao College Lahore
+- 🎓 Studying **ICS** at Mao College Lahore
 - 💻 Completed a **Full Web Development** course (Dec 2023)
 - 🎨 Completed a **Graphic Design & Video Editing** course (Jun 2024)
 - 🚀 Currently working as a **Freelance Developer, Designer & Video Editor**
@@ -74,5 +74,5 @@ I'm always open to freelance work, collaborations, or just a good conversation a
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahmir-ahmad-full-stack-developer/">LinkedIn</a> •
-  <a href="mailto:ashahmir467@gmail.com">Email</a>
+  <a href="https://contact-page-theta-nine.vercel.app/">Contact Page</a>
 </p>
